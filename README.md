@@ -9,15 +9,6 @@ restaurant tip amounts using the classic *tips* dataset.
 244 rows of restaurant tipping data with features:
 total_bill, tip, sex, smoker, day, time, size.
 
-## How to Run
-
-1. Open [Google Colab](https://colab.research.google.com)
-2. Click **File → Upload notebook** and upload `tips_regression.ipynb`
-3. Click **Runtime → Run all**
-4. The chart will download automatically as `feature_coefficients.png`
-
-No installations needed — all libraries are pre-installed in Colab.
-
 ## Results Summary
 
 | Metric | Value | Interpretation                                 |
